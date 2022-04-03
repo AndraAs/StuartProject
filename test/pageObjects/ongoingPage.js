@@ -1,6 +1,3 @@
-const historyPage = require("./historyPage")
-const requestDeliveryPage = require("./requestDeliveryPage")
-
 class OngoingPage
 {
   
