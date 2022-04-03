@@ -1,0 +1,5 @@
+debug.log
+node_modules
+reports
+chromeDownloads
+package-lock.json
